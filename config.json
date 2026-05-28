@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssecrypt",
+        "uuid": 1944885,
+        "checksum": "a08rx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
